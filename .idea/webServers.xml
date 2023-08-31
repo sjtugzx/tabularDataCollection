@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="aaa2b94c-0a83-43e7-85d1-418f9653c12b" name="acemap14">
+        <fileTransfer accessType="SFTP" host="10.10.10.234" port="22" sshConfigId="a3bd98e3-bb98-4814-8ec4-a4b1497d9955" sshConfig="troykuo@10.10.10.234:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+    <groups>
+      <group>
+        <name>Acemap</name>
+        <servers>
+          <name value="acemap14" />
+        </servers>
+      </group>
+    </groups>
+  </component>
+</project>
