@@ -1,6 +1,6 @@
 # An Automated Tabular Data Collection Method
 
-Code for the Scientific Data Paper "".
+Code for the Scientific Data Paper "A new method to obtain the Sm-Nd isotope data through automated tabular data collection from geological articles".
 
 **Extracted Data Availability**: [Guo, Zhixin (2023). Sm-Nd data collection.xls. figshare. Dataset.](https://doi.org/10.6084/m9.figshare.24054231.v1)
 
